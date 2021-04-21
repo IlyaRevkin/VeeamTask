@@ -1,0 +1,13 @@
+C:\Users\rev-i\source\repos\ConConfig\ConConfig\obj\Debug\netcoreapp3.1\ConConfig.csprojAssemblyReference.cache
+C:\Users\rev-i\source\repos\ConConfig\ConConfig\obj\Debug\netcoreapp3.1\ConConfig.AssemblyInfoInputs.cache
+C:\Users\rev-i\source\repos\ConConfig\ConConfig\obj\Debug\netcoreapp3.1\ConConfig.AssemblyInfo.cs
+C:\Users\rev-i\source\repos\ConConfig\ConConfig\obj\Debug\netcoreapp3.1\ConConfig.csproj.CoreCompileInputs.cache
+C:\Users\rev-i\source\repos\ConConfig\ConConfig\bin\Debug\netcoreapp3.1\ConConfig.exe
+C:\Users\rev-i\source\repos\ConConfig\ConConfig\bin\Debug\netcoreapp3.1\ConConfig.deps.json
+C:\Users\rev-i\source\repos\ConConfig\ConConfig\bin\Debug\netcoreapp3.1\ConConfig.runtimeconfig.json
+C:\Users\rev-i\source\repos\ConConfig\ConConfig\bin\Debug\netcoreapp3.1\ConConfig.runtimeconfig.dev.json
+C:\Users\rev-i\source\repos\ConConfig\ConConfig\bin\Debug\netcoreapp3.1\ConConfig.dll
+C:\Users\rev-i\source\repos\ConConfig\ConConfig\bin\Debug\netcoreapp3.1\ConConfig.pdb
+C:\Users\rev-i\source\repos\ConConfig\ConConfig\obj\Debug\netcoreapp3.1\ConConfig.dll
+C:\Users\rev-i\source\repos\ConConfig\ConConfig\obj\Debug\netcoreapp3.1\ConConfig.pdb
+C:\Users\rev-i\source\repos\ConConfig\ConConfig\obj\Debug\netcoreapp3.1\ConConfig.genruntimeconfig.cache

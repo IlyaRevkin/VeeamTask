@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <file
+    source_path=".\files"
+    destination_path=".\files1"
+    file_name="file1.txt"
+    />
+  <file
+  source_path=".\files"
+  destination_path=".\files1"
+  file_name="file2.bmp"
+      />
+  <file
+  source_path=".\files"
+  destination_path=".\files1"
+  file_name="file3.pptx"
+  />
+</config>
